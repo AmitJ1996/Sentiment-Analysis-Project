@@ -20,4 +20,3 @@ I followed the following procedure to complete the task 1
 * Selectorlib is a tool that makes selecting, marking up, and extracting data from web pages visual and easy.
 
 
-My Github Link : https://github.com/m0h1t98/Sentiment_Analysis
